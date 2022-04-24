@@ -1,4 +1,4 @@
-<h1>How to debrick Netgear R6220 (my expericence)</h1>
+<h1>How to unbrick Netgear R6220 (my experience)</h1>
 
 <h2>Issue:</h2>
 
@@ -21,7 +21,7 @@ Read a lot of content on unbricking a netgrear router but below videos + recomme
 <h3>Steps:</h3>
 
 <ol type="1">
-  <li>Turn off your router and disconnect the LAN cable</li>
+  <li>Turn OFF your router and disconnect the LAN cable</li>
   <li>Install npcap (needed for nmrpflash utility to work)</li>
   <li>Extract nmrpflash to a folder<br>
 ![image](https://user-images.githubusercontent.com/50511242/164959955-8aea87c7-1640-4c46-a513-f78bd394de68.png)</li>
@@ -39,8 +39,8 @@ Read a lot of content on unbricking a netgrear router but below videos + recomme
   <li>The utility will show 'Waiting for ethernet connection'</li>
   <li>Turn the router ON(without reset)</li>
   <li>Connection should succeed and firmware should start uploading</li>
-  <li>Wait till the process completes and you will get a message reboot your device. REBOOT the device</li>
-  <li>Reset your LAN network configuration</li>
+  <li>Wait till the process completes and you will get a message to reboot your device. REBOOT the device</li>
+  <li>Reset your LAN network configuration in Windows</li>
 </ol>
 
 ![image](https://user-images.githubusercontent.com/50511242/164959955-8aea87c7-1640-4c46-a513-f78bd394de68.png)
