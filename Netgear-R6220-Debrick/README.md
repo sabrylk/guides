@@ -13,7 +13,17 @@ https://kb.netgear.com/000059633/How-do-I-upload-firmware-to-my-NETGEAR-router-u
 Read a lot of content on unbricking a netgrear router but below videos + recommendation of most articles on nmrpflash utility helped.
 
 <h3>Resources:</h3>
+<li>https://www.youtube.com/watch?v=4Nu-bfhsUKE - Helpful video on how to configure the IP v4 address of the LAN connection</li>
+<li>https://www.youtube.com/watch?v=ZW5fpOWpI0I&t=746s - Video that the above author cites as a helpful source (related to a TP-Link router</li>
+<li>https://github.com/jclehner/nmrpflash/blob/master/README.md - nmrpflash utility and instructions</li>
+<li> - Latest firmware of NR6220</li>
 
 <h3>Steps:</h3>
+
+<ol type="1">
+  <li>Install npcap (needed for nmrpflash utility to work)</li>
+  <li>Install nmrpflash</li>
+  <li>Download the latest firmware of Netgear R6220</li>
+</ol>
 
 ![image](https://user-images.githubusercontent.com/50511242/164959329-841f4c17-5c61-4469-bf21-55b367c813a1.png)
