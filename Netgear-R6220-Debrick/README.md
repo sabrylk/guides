@@ -16,7 +16,7 @@ Read a lot of content on unbricking a netgrear router but below videos + recomme
 <li>https://www.youtube.com/watch?v=4Nu-bfhsUKE - Helpful video on how to configure the IP v4 address of the LAN connection</li>
 <li>https://www.youtube.com/watch?v=ZW5fpOWpI0I&t=746s - Video that the above author cites as a helpful source (related to a TP-Link router</li>
 <li>https://github.com/jclehner/nmrpflash/blob/master/README.md - nmrpflash utility and instructions</li>
-<li>https://www.netgear.com/support/product/R6220.aspx#download - Latest firmware of NR6220</li>
+<li>https://www.netgear.com/support/product/R6220.aspx#download - Latest firmware of R6220</li>
 
 <h3>Steps:</h3>
 
