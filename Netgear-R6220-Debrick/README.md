@@ -1,4 +1,4 @@
-<h1>How to unbrick Netgear R6220 (my experience)</h1>
+<h1>How to unbrick Netgear R6220 (what worked for me)</h1>
 
 <h2>Issue:</h2>
 
